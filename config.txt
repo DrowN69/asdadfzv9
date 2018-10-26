@@ -1,6 +1,6 @@
-token=NTA0NzM0MzAzMjkzNTM4MzM1.DrMuEQ.XSTcPMgp6aD6WZxpO6EUSd0fmo4
-owner=418889394322407445
-prefix=!
-game=Janna BoT
+token=NTA1NDI2ODYzODI5ODExMjAw.DrTbOw.jQ2z0Dq_lUQFIDop6_sQ6dqZMMc
+owner=296047056873848832
+prefix=g1
+game=𝓞𝓝𝓛𝓨 𝓜𝓤𝓢𝓘𝓒
 stayinchannel=true
 songinstatus=true
