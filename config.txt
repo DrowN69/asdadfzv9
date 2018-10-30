@@ -1,6 +1,6 @@
-token=NTA2OTY1NjA2NDExNTM0MzM2.Drp0Mw.iPZOAXd5f62qnzULbqZ4hWgVcwg
+token=NTA2OTY1OTM1NTQ2OTU3ODQ1.Drp0kw.9Dei9C0btxUxgTUPanSrcEbefbc
 owner=416204694218866688
-prefix=-N3
-game=Type -N3play
+prefix=-N4
+game=Type -N4play
 stayinchannel=true
 songinstatus=true
