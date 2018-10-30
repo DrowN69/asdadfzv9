@@ -1,6 +1,6 @@
 token=NTA2OTY0NTE0NDU4MzA0NTIz.DrpzLg.SpKICCTxJrt2fHuFh_Wlb7ci65k
 owner=416204694218866688
-prefix=-N2
-game=Type -N2play
+prefix=-N3
+game=Type -N3play
 stayinchannel=true
 songinstatus=true
