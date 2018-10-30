@@ -1,6 +1,6 @@
-token=NTA1NDI2ODYzODI5ODExMjAw.DrTbOw.jQ2z0Dq_lUQFIDop6_sQ6dqZMMc
-owner=296047056873848832
-prefix=g1
-game=𝓞𝓝𝓛𝓨 𝓜𝓤𝓢𝓘𝓒
+token=
+owner=416204694218866688
+prefix=-N1
+game=Type -N1play
 stayinchannel=true
 songinstatus=true
